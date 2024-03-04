@@ -4,9 +4,9 @@
 ## img: [PDPA](PDPA.md)
 
 ## VOCAB
-+ ### CERT: [DigitalSignature](DigitalSignature.md)
-+ ### CERT: [SymmetricEncryption](SymmetricEncryption.md)
-+ ### CERT: [Rootkit](Rootkit.md)
++ ### VOCAB: [DigitalSignature](DigitalSignature.md)
++ ### VOCAB: [SymmetricEncryption](SymmetricEncryption.md)
++ ### VOCAB: [Rootkit](Rootkit.md)
 site is live at https://MinFluk.github.io/
 ## Certificate
 + ### CERT: [FortiGate7.4](fortigate.md)
